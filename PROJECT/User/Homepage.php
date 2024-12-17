@@ -266,69 +266,7 @@ Welcome <?php echo $data["user_name"]; ?><br>
           <?php
     }
     ?>
-          <!-- <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-2">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-              <img class="u-expanded-width u-image u-image-default u-image-3" src="../Assets/Templates/Main/images/images/glass bridge main.jpeg" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4">Glass Bridge </h4>
-              <p class="u-hover-feature u-text u-text-3"> The Vagamon Glass Bridge is one of the unique Glass Bridge Skywalks in India among many others.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-2">Glass Bridge</a>
-            </div>
-          </div>
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-3">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-              <img class="u-expanded-width u-image u-image-default u-image-4" src="../Assets/Templates/Main/images/images/zipline main.webp" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Zipline</h4>
-              <p class="u-hover-feature u-text u-text-3">Experience the thrill of ziplining over Vagamon's breathtaking panoramic mountain views.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3">Zipline</a>
-            </div>
-          </div>
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-3">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-              <img class="u-expanded-width u-image u-image-default u-image-4" src="../Assets/Templates/Main/images/images/Gaint Swing.jpeg" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Gaint Swing</h4>
-              <p class="u-hover-feature u-text u-text-3">The Giant Swing in Vagamon offers thrilling freefall and panoramic views of hills and valleys.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3">Gaint Swing</a>
-            </div>
-          </div>
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-3">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-              <img class="u-expanded-width u-image u-image-default u-image-4" src="../Assets/Templates/Main/images/images/trekking.jpeg" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Trekking</h4>
-              <p class="u-hover-feature u-text u-text-3">Trekking in Vagamon offers scenic trails through lush hills, pine forests, and meadows, with stunning mountain views.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3">Trekking</a>
-            </div>
-          </div>
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-3">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-              <img class="u-expanded-width u-image u-image-default u-image-4" src="../Assets/Templates/Main/images/images/Sky Roller.jpeg" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Sky Roller</h4>
-              <p class="u-hover-feature u-text u-text-3">The Sky Roller in Vagamon offers thrilling aerial twists, speed, and stunning views over valleys.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3">Sky Roller</a>
-            </div>
-          </div>
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-3">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-              <img class="u-expanded-width u-image u-image-default u-image-4" src="../Assets/Templates/Main/images/images/Sky Cycle.jpeg" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Sky Cycle</h4>
-              <p class="u-hover-feature u-text u-text-3">The Sky Cycle in Vagamon allows riders to pedal above scenic landscapes, enjoying breathtaking views.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-3">Sky Cycle</a>
-            </div>
-          </div>
           
-         
-          <div class="u-align-center u-border-1 u-border-palette-2-base u-container-align-center u-container-style u-list-item u-repeater-item u-shape-rectangle u-video-cover u-white u-list-item-4">
-            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-5">
-              <img class="u-expanded-width u-image u-image-default u-image-5" src="../Assets/Templates/Main/images/images/kayaking main.webp" alt="" data-image-width="900" data-image-height="600">
-              <h4 class="u-hover-feature u-text u-text-4"> Kayaking</h4>
-              <p class="u-hover-feature u-text u-text-3">Kayaking in Vagamon features serene waters and stunning natural landscapes.</p>
-              <a href="#" class="u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-border-palette-2-base u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-style u-hover-feature u-none u-radius-0 u-text-active-palette-2-base u-text-hover-palette-2-base u-text-palette-2-base u-top-left-radius-0 u-top-right-radius-0 u-btn-4">Kayaking</a>
-            </div>
-          </div> -->
-        </div>
-      </div>
-      <!-- <p class="u-align-center u-text u-text-10">Images from <a href="https://www.freepik.com/" class="u-border-1 u-border-active-palette-3-base u-border-black u-border-hover-palette-3-base u-border-no-left u-border-no-right u-border-no-top u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-link u-button-style u-none u-radius-0 u-text-body-color u-top-left-radius-0 u-top-right-radius-0 u-btn-5" target="_blank">Freepik</a>
-      </p> -->
-     
     </section>
     <section class="u-clearfix u-white u-section-6" id="carousel_3ac0">
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
@@ -384,42 +322,14 @@ Welcome <?php echo $data["user_name"]; ?><br>
                         <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-c38d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
                       </div>Pack a small bag with essentials.
                     </li>
-                    <!-- <li style="padding-left: 7px;">
-                      <div class="u-list-icon u-text-palette-2-base">
-                        <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-c38d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
-                      </div>
-                    </li>
-                     <li style="padding-left: 7px;">
-                      <div class="u-list-icon u-text-palette-2-base">
-                        <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-c38d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
-                      </div>internet access
-                    </li>  -->
+                   
                   </ul>
                 </div>
               </div>
                <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
-                  <!-- <h3 class="u-text u-text-3"> In the campsite, you can:&nbsp;<br>
-                  </h3>
-                  <ul class="u-custom-list u-text u-text-4" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
-                    <li style="padding-left: 7px;">
-                      <div class="u-list-icon u-text-palette-2-base">
-                        <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-f00d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
-                      </div> hire a climbing instructor 
-                    </li>
-                    <li style="padding-left: 7px;">
-                      <div class="u-list-icon u-text-palette-2-base">
-                        <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-f00d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
-                      </div>buy kayaking permits(price list) 
-                    </li>
-                    <li style="padding-left: 7px;">
-                      <div class="u-list-icon u-text-palette-2-base">
-                        <svg class="u-svg-content" viewBox="0 0 512 512" id="svg-f00d"><path d="m433.1 67.1-231.8 231.9c-6.2 6.2-16.4 6.2-22.6 0l-99.8-99.8-78.9 78.8 150.5 150.5c10.5 10.5 24.6 16.3 39.4 16.3 14.8 0 29-5.9 39.4-16.3l282.7-282.5z" fill="currentColor"></path></svg>
-                      </div>buy fishing permits (price list)
-                    </li>
-                  </ul>
-                  <h3 class="u-text u-text-5"> Info centre for paragliders:<br>
-                  </h3> -->
+                 
+                 
                   <ul class="u-custom-list u-text u-text-6" data-animation-name="" data-animation-duration="0" data-animation-delay="0" data-animation-direction="">
                     <li style="padding-left: 7px;">
                       <div class="u-list-icon u-text-palette-2-base">

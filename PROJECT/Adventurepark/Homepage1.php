@@ -84,22 +84,17 @@ Welcome <?php echo $data["adv_name"] ?><br>
       <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
         <h1 class="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-default u-text-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="250"> VISIT WITH WINGS</h1>
         <p class="u-align-center-md u-align-center-sm u-align-center-xs u-large-text u-text u-text-variant u-text-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="250">Book your adventure using  Visit With Wings&nbsp;</p>
-        <div class="u-clearfix u-expanded-width-xs u-layout-custom-sm u-layout-custom-xs u-layout-wrap u-layout-wrap-1">
-          <div class="u-layout">
-            <div class="u-layout-row">
-              <div class="u-align-right u-container-align-center-xs u-container-align-right u-container-style u-layout-cell u-left-cell u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xl u-size-60-xs u-layout-cell-1" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="250">
-                <div class="u-container-layout u-valign-top u-container-layout-1">
-                  <a href="BookRides.php" class="u-align-center-xs u-border-2 u-border-palette-2-base u-btn u-btn-round u-button-style u-palette-2-base u-radius-50 u-btn-1">Book now</a>
-                </div>
-              </div>
-              <div class="u-align-left u-container-align-center-xs u-container-align-left u-container-style u-layout-cell u-right-cell u-size-30-lg u-size-30-md u-size-30-sm u-size-30-xl u-size-60-xs u-layout-cell-2" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="250">
-                <!--<div class="u-container-layout u-valign-top u-container-layout-2">
-                  <a href="#" class="u-active-white u-align-center-xs u-border-2 u-border-active-white u-border-hover-white u-border-white u-btn u-btn-round u-button-style u-hover-white u-none u-radius-50 u-text-active-black u-text-hover-black u-btn-2"> How to Camp</a>
-                </div>-->
-              </div>
-            </div>
-          </div>
-        </div>
+        <span align="center" style="
+    padding: 10px;
+">
+                  <a href="BookRides.php" style="
+    padding: 10px 15px;
+    background-color: #db545a;
+    border-radius: 20px;
+    color: white;
+    margin-top: 20px;
+">Book now</a>
+</span>
         <!-- <p class="u-align-center-md u-align-center-sm u-align-center-xs u-text u-text-default u-text-3" data-animation-name="customAnimationIn" data-animation-duration="1500" data-animation-delay="500">Images from <a href="https://www.freepik.com/photos/nature" class="u-active-none u-border-1 u-border-no-left u-border-no-right u-border-no-top u-border-white u-bottom-left-radius-0 u-bottom-right-radius-0 u-btn u-button-link u-button-style u-hover-none u-none u-radius-0 u-text-body-alt-color u-top-left-radius-0 u-top-right-radius-0 u-btn-3" target="_blank">Freepik</a>
         </p> -->
         <div class="u-expanded-width u-list u-list-1">

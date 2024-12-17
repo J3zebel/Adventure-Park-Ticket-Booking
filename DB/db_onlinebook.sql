@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 09, 2024 at 10:12 AM
+-- Generation Time: Dec 17, 2024 at 05:37 AM
 -- Server version: 10.4.32-MariaDB
 -- PHP Version: 8.0.30
 
@@ -164,7 +164,8 @@ CREATE TABLE `tbl_complaint` (
 --
 
 INSERT INTO `tbl_complaint` (`com_id`, `com_title`, `com_content`, `com_reply`, `com_status`, `com_date`, `user_id`) VALUES
-(24, 'HJH', 'VH', '', '0', '2024-12-09', 33);
+(25, 'Hospitality', 'The ride guide was rude and unhelpful', 'Sorry for the inconvenience, will look into it.', '1', '2024-12-15', 33),
+(26, 'Dirtiness', 'The waiting area was not clean and the drinking water was also dirt.', '', '0', '2024-12-15', 34);
 
 -- --------------------------------------------------------
 
@@ -537,7 +538,7 @@ ALTER TABLE `tbl_category`
 -- AUTO_INCREMENT for table `tbl_complaint`
 --
 ALTER TABLE `tbl_complaint`
-  MODIFY `com_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=25;
+  MODIFY `com_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=27;
 
 --
 -- AUTO_INCREMENT for table `tbl_customer`
